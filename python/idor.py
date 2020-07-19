@@ -4,7 +4,6 @@ import warnings
 from colorama import *
 import ast
 import regex
-from urllib.parse import urlparse
 
 init(autoreset=True)
 warnings.simplefilter("ignore")
