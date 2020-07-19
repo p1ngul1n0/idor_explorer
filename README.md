@@ -11,3 +11,6 @@
 - Custom headers
 - Body request data
 - Time delay between requests
+
+### Credits
+<a href="https://my.logomakr.com">Created my free logo at LogoMakr.com</a>
