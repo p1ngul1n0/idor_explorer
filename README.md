@@ -1,10 +1,7 @@
-
-
 <img alt="IDOR logo" align="left" width="200" height="200" src="https://github.com/sampzzz/src/blob/master/idor.png">
-<h1>IDOR Explorer</h1>
+<h1>I.D.O.R Explorer</h1>
 
-### Collection of automated tools to IDOR exploration
-
+### Collection of automated tools to IDOR exploration</br></br></br></br>
 ## Features
 
 - POST, PUT and GET requests
