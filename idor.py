@@ -70,7 +70,7 @@ class target:
 		
 		#Present arguments to explore
 		print ("_"*100)
-
+		print ("| {}PUBLIC IP IN USE{} {}".format(Fore.WHITE,Style.RESET_ALL,requests.get('https://api.ipify.org').text))
 		print ("| {}METHOD{} {}".format(Fore.WHITE,Style.RESET_ALL,self.method.upper()))
 
 		print ("| {}URL{}  {}".format(Fore.WHITE,Style.RESET_ALL,self.url))
